@@ -1,0 +1,214 @@
+
+
+body
+	{
+	font-family: 'Lato', sans-serif;
+	background-color:#FF4500;
+
+	}
+	p
+	{
+	    text-align: justify;
+	}
+	
+	h2
+	{
+		font-family: 'Fjalla One', sans-serif;
+	}
+	.row
+	{
+	background-color:#fff;
+	}
+	.header_bg {
+    padding-top: 1.5%;
+    padding-bottom: 1%;
+	}
+.batn {
+    background-color: orange;
+    
+    cursor: pointer;
+    float: right;
+    font-family: 'Fjalla One', sans-serif;
+    padding: 10px 26px;
+    line-height: 1.4;
+    box-shadow: mediumorchid;
+	    box-shadow: 1px 1px 6px #888888;
+    letter-spacing: 2px;
+    outline: none;
+    color: #fff;
+    border-radius: 7px;
+}
+	
+	
+
+.head .navbar {
+    border-radius: 0px;
+}
+
+.head .nav li a {
+    padding: 20px 47px;
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    letter-spacing: 2px;
+}
+
+
+.firstpartlogo .logo
+{
+text-align:center;
+background-color:#fff;
+}
+.secondtextimg
+{
+
+	background-image: url("images/cars.jpg");
+	  background-repeat: no-repeat;
+	background-size:100%;
+	    height: 368px;
+	width:100%;
+	
+}
+
+.secondtextimg {
+    width: 100%;
+    
+   
+}
+.secondtextimg h2
+{
+color:#000;
+}
+.secondtextimg ul
+{
+list-style-type:none;
+}
+
+.secondtextimg ul li
+{
+padding:1%;
+color:	#F5F5F5;
+font-size:1.7em;
+}
+
+.secondtextimg ul li i
+{
+padding-right:3%;
+color:#7CFC00;
+}
+.fullimgs {
+    padding-bottom: 3%;
+}
+.thirdone h2
+{
+color:#FF4500;
+padding:1%;
+}
+.thirdtwo img
+{
+width:100%;
+}
+.thirdthree p
+{
+    line-height: 1.5em;
+    padding:3% 0;
+    font-size: 1.1em;
+   
+}
+a.batn:hover {
+    background-color:#FF4500;
+    color: orange;
+    text-decoration: none;
+}
+.header_bg .head .navbar
+{
+margin-bottom: 0px;
+}
+.header_bg .head
+{
+padding:0 0px;
+}
+.fourthimag img
+{
+width:100%;
+}
+.col-xs-12.col-md-12.col-sm-12.col-lg-12.fourthimag {
+    padding: 0px 0px;
+}
+.fourthhead h2
+{
+color:#FF4500;
+letter-spacing:3px;
+}
+.fourthpara p
+{
+ line-height: 1.5em;
+        padding: 2% 0% 10% 0%;
+    font-size: 1.1em;
+	text-indent: 37px;
+    
+}
+.fourthpartdiv .row
+{
+padding:2% 0;
+}
+.fourthpgf1 h2
+{
+font-size:20px;
+color:white;
+margin:15px 0;
+
+}
+.fourthpgf1div1
+{
+background-color:orange;
+    border-radius: 5px;
+}
+.fourthpgf1div2 p {
+ font-size: 1.3em;
+    padding: 3%;
+    
+}
+.fourthpgf1div3 img
+{
+width:100%;
+    border: 1px solid black;
+}
+.fourthpgf1div3 .fourthpgfp 
+{
+padding:4% 0;
+}
+.fourthpgf1div3 .fourthpgfp p
+{
+font-size: 1.1em;
+
+}
+.fourthpgf1div4
+{
+background-color:orange;
+    border-radius: 5px;
+}
+	
+.fourthpgf1div5  ul li
+	{
+	width: 60px;
+    padding: 6% 0px;
+	float:left;
+	}
+	.fourthpgf1div5  ul li img
+	{
+	width:50px;
+	padding:7%;
+	}
+	.fourthpgf1div5  ul 
+	{
+	list-style-type:none;
+	padding:0px;
+	}
+	.fourthpartdiv .fourhtdiv
+	{
+	padding-top: 2%;
+	}
+	.fourthpgf1div3 
+	{
+    padding: 4% 0;
+	}
